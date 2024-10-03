@@ -1,0 +1,3 @@
+<h1>Learning Natural Language Processing with Python</h1>
+<h5>Analysing Text with the Natural Language Toolkit</h5>
+<p>With chatbots and AI models now completing large tasks from simple prompts in the language that humans understand, learning Natural Language Processing (NLP) is more relevant than ever. I’m excited to integrate it into my ongoing projects. Please feel free to contribute to this repo!</p>
